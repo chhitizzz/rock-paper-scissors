@@ -2,12 +2,16 @@ body {
     text-align: center;
 }
 
-button {
+button, .computer-choice {
     background: #468B97;
     border: 0;
     padding: 15px;
     border-radius: 15px;
     cursor: pointer;
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    box-sizing: border-box;
 }
 
 button svg{
