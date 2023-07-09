@@ -18,3 +18,7 @@ svg{
     height: 50px;
     fill: #fff;
 }
+
+.computer-choice svg {
+    display: none;
+}
