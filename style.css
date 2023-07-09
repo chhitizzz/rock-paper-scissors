@@ -14,7 +14,7 @@ button, .computer-choice {
     box-sizing: border-box;
 }
 
-button svg{
+svg{
     height: 50px;
     fill: #fff;
 }
