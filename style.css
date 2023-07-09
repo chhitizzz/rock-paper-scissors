@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+button {
+    background: #468B97;
+    border: 0;
+    padding: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+button svg{
+    height: 50px;
+    fill: #fff;
+}
