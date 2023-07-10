@@ -14,4 +14,7 @@ function MyChoiceIs(userChoice) {
             document.querySelector('.result').innerText = 'You lost!';
         }
     }
+    setTimeout(function () {
+        window.location.reload();
+    }, 2000)
   }
