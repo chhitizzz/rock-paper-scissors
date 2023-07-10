@@ -2,6 +2,11 @@ body {
     text-align: center;
 }
 
+p {
+    font-size: xx-large;
+    font-weight: bold;
+}
+
 button, .computer-choice {
     background: #468B97;
     border: 0;
