@@ -32,3 +32,12 @@ svg{
     font-size: xx-large;
     margin-top: 20px;
 }
+
+@keyframes spin {
+    0%{transform: rotate(0deg);}
+    100%{transform: rotate(360deg);}
+}
+
+.computer-choice {
+    animation: spin 1s infinite linear;
+}
