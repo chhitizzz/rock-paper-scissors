@@ -22,3 +22,7 @@ svg{
 .computer-choice svg {
     display: none;
 }
+
+.result {
+    margin-top: 20px;
+}
