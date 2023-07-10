@@ -41,3 +41,7 @@ svg{
 .computer-choice {
     animation: spin 1s infinite linear;
 }
+
+.computer-choice.stop-spinning {
+    animation: none;
+}
