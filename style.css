@@ -5,12 +5,12 @@ body {
 button, .computer-choice {
     background: #468B97;
     border: 0;
-    padding: 15px;
+    padding: 25px;
     border-radius: 15px;
     cursor: pointer;
     display: inline-block;
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     box-sizing: border-box;
 }
 
